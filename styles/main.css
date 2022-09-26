@@ -10,4 +10,22 @@
     center;
     background-size: cover;
 }
+/*Start main-header*/
+.header-outer{
+    width: 100%;
+    height: 60px;
+    border: 1px solid red;
+    display: flex;
+}
+.logo-outer{
+    width: 200px;
+    height: 100%;
+    border: 1px solid red;
+}
+.nav-outer{
+    border: 1px solid red;
+    flex: 1;
+}
+/*End main-header*/
+
 /*End Main Slider*/
