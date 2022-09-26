@@ -1,3 +1,13 @@
-body{
-    background-color: red;
+*{
+    margin: 0;
+    padding: 0;
 }
+/*Start Main Slider*/
+.main-slider-outer{
+    width: 100vw;
+    height: 100vh;
+    background: url("https://img.freepik.com/free-photo/motion-blur-automatic-train-moving-inside-tunnel-tokyo-japan_335224-162.jpg?w=826&t=st=1664122435~exp=1664123035~hmac=51a8209f0b9cfa4da1847e6677aee17b4763f620e9c55eff46ed80e5cdf358d9")
+    center;
+    background-size: cover;
+}
+/*End Main Slider*/
