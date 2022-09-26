@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -21,7 +22,17 @@
     width: 200px;
     height: 100%;
     border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+.logo-text{
+    font-family: 'Lobster', cursive;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
 .nav-outer{
     border: 1px solid red;
     flex: 1;
